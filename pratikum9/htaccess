@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 
 <IfModule mod_rewrite.c>
     RewriteEngine On
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteRule ^(.*)＄ index.php
 </IfModule>
+=======
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^(.*)＄ index.php
+</IfModule>
+>>>>>>> 642ff65 (menambahkan tugas)
